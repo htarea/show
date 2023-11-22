@@ -8,7 +8,7 @@
     font-size: 14px;
 }
 
-
+body
 
 .main{
     overflow: hidden;
@@ -118,7 +118,7 @@ a{
 
 
 
-body:hover > #vue{
+.main:hover > #vue{
     left: 45%;
     top: 65%;
 }
@@ -153,12 +153,12 @@ body:hover > #vue{
     top: -10%;
 }
 
-body:hover > #js{
+.main:hover > #js{
     left: 20%;
     top: 60%;
 }
 
-body:hover > #weixin{
+.main:hover > #weixin{
     left: 30%;
     top: 10%;
 }
