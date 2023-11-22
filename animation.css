@@ -127,7 +127,7 @@ a{
 
 
 body:hover > #vue{
-    left: 60%;
+    left: 45%;
     top: 65%;
 }
 
@@ -167,7 +167,7 @@ body:hover > #js{
 }
 
 body:hover > #weixin{
-    left: 40%;
+    left: 30%;
     top: 10%;
 }
 
